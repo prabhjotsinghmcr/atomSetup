@@ -1,0 +1,46 @@
+{
+  "_from": "https://www.atom.io/api/packages/framer-new-syntax/versions/0.1.0/tarball",
+  "_id": "framer-new-syntax@0.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-Eo8dVHjbrFOLnw6jmB4PWbkb/pbSqmkaoxja9vZ7PapwyQBK8saz+4C0hE9vomv1K0pApeO292YYaD8WiQdCkw==",
+  "_location": "/framer-new-syntax",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/framer-new-syntax/versions/0.1.0/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/framer-new-syntax/versions/0.1.0/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/framer-new-syntax/versions/0.1.0/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/framer-new-syntax/versions/0.1.0/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/framer-new-syntax/versions/0.1.0/tarball",
+  "_shasum": "b1fd09963f5ce47758d36ac9e9eee11315671d21",
+  "_spec": "https://www.atom.io/api/packages/framer-new-syntax/versions/0.1.0/tarball",
+  "_where": "/private/var/folders/fm/1s8kj_vn2cd4zhb57jrqr6pr0000gn/T/apm-install-dir-119415-72583-gb9qku.lcugn",
+  "bugs": {
+    "url": "https://github.com/lol-russo/framer-new-syntax/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Atom theme inspired by Framer's 2017 syntax colors",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/lol-russo/framer-new-syntax#readme",
+  "keywords": [
+    "syntax",
+    "theme",
+    "framer"
+  ],
+  "license": "MIT",
+  "name": "framer-new-syntax",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lol-russo/framer-new-syntax.git"
+  },
+  "theme": "syntax",
+  "version": "0.1.0"
+}

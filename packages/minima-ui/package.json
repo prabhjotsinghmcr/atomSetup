@@ -1,0 +1,49 @@
+{
+  "_from": "https://www.atom.io/api/packages/minima-ui/versions/0.0.4/tarball",
+  "_id": "minima-ui@0.0.4",
+  "_inBundle": false,
+  "_integrity": "sha512-9uhxKTYGDq/7klvoAtKeNBr2NZGfBH+ouasDsoXWh2tOSy4SQRLs2E6hCccjhb3pVVG6JtY5puKliu5m6+OIaw==",
+  "_location": "/minima-ui",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/minima-ui/versions/0.0.4/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/minima-ui/versions/0.0.4/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/minima-ui/versions/0.0.4/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/minima-ui/versions/0.0.4/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/minima-ui/versions/0.0.4/tarball",
+  "_shasum": "a2b51f90e6625c010f841abf1b39454062a4fab1",
+  "_spec": "https://www.atom.io/api/packages/minima-ui/versions/0.0.4/tarball",
+  "_where": "/private/var/folders/fm/1s8kj_vn2cd4zhb57jrqr6pr0000gn/T/apm-install-dir-119414-30371-n4sj7q.5e8k",
+  "author": {
+    "name": "Alex Fedoseev",
+    "email": "alex.fedoseev@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/alexfedoseev/atom-minima-ui/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A dark UI theme for Atom",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/alexfedoseev/atom-minima-ui#readme",
+  "keywords": [
+    "ui",
+    "theme"
+  ],
+  "license": "MIT",
+  "name": "minima-ui",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexfedoseev/atom-minima-ui.git"
+  },
+  "theme": "ui",
+  "version": "0.0.4"
+}

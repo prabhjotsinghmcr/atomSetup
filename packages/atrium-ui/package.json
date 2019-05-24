@@ -1,0 +1,45 @@
+{
+  "_from": "https://www.atom.io/api/packages/atrium-ui/versions/0.2.2/tarball",
+  "_id": "atrium-ui@0.2.2",
+  "_inBundle": false,
+  "_integrity": "sha512-93TFGiyDJA5P3Ib/Up8OvM2iAX7NicVM9S2nU5alxR0+OYueMT7qjFFTIrVyBSsxbBr3ZN02UXwEkIaxUMaFTA==",
+  "_location": "/atrium-ui",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/atrium-ui/versions/0.2.2/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/atrium-ui/versions/0.2.2/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/atrium-ui/versions/0.2.2/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/atrium-ui/versions/0.2.2/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/atrium-ui/versions/0.2.2/tarball",
+  "_shasum": "0f7ef2440ee1cdcc66cf4f75f27031252d44de7a",
+  "_spec": "https://www.atom.io/api/packages/atrium-ui/versions/0.2.2/tarball",
+  "_where": "/private/var/folders/fm/1s8kj_vn2cd4zhb57jrqr6pr0000gn/T/apm-install-dir-119414-30474-c7p3si.d54y",
+  "bugs": {
+    "url": "https://github.com/troydraws/atrium-ui/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Atrium UI Medium Gray",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/troydraws/atrium-ui#readme",
+  "keywords": [
+    "ui",
+    "theme"
+  ],
+  "license": "MIT",
+  "name": "atrium-ui",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/troydraws/atrium-ui.git"
+  },
+  "theme": "ui",
+  "version": "0.2.2"
+}

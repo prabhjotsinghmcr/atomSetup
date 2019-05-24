@@ -1,0 +1,49 @@
+{
+  "_from": "https://www.atom.io/api/packages/framerjs-syntax/versions/1.4.0/tarball",
+  "_id": "framerjs-syntax@1.4.0",
+  "_inBundle": false,
+  "_integrity": "sha512-WkxsUF/+03ovvSq5TjE8ZHFUBXXtEZhRkJpSq5GoFHuwsRdkmv4HH3etNvImBrbV01omcA/snWf3Quf9F8eKoA==",
+  "_location": "/framerjs-syntax",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/framerjs-syntax/versions/1.4.0/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/framerjs-syntax/versions/1.4.0/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/framerjs-syntax/versions/1.4.0/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/framerjs-syntax/versions/1.4.0/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/framerjs-syntax/versions/1.4.0/tarball",
+  "_shasum": "184ec193f2e097c5393a58a955a2c8aaeb299f5d",
+  "_spec": "https://www.atom.io/api/packages/framerjs-syntax/versions/1.4.0/tarball",
+  "_where": "/private/var/folders/fm/1s8kj_vn2cd4zhb57jrqr6pr0000gn/T/apm-install-dir-119414-30082-152k4b1.tg3g",
+  "bugs": {
+    "url": "https://github.com/rickyrauch/framerjs-syntax/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Syntax theme inspired by Framer JS.",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/rickyrauch/framerjs-syntax#readme",
+  "keywords": [
+    "syntax",
+    "theme",
+    "dark",
+    "contrast",
+    "clean",
+    "minimal"
+  ],
+  "license": "MIT",
+  "name": "framerjs-syntax",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rickyrauch/framerjs-syntax.git"
+  },
+  "theme": "syntax",
+  "version": "1.4.0"
+}

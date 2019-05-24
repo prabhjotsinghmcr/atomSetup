@@ -1,0 +1,48 @@
+{
+  "_from": "https://www.atom.io/api/packages/fox-syntax-theme/versions/1.2.0/tarball",
+  "_id": "fox-syntax-theme@1.2.0",
+  "_inBundle": false,
+  "_integrity": "sha512-0mY0blh6nQPOZizz9txw1IGAcnhuNj465mBlnt5+VkV4wGwosVMUHGnDUVuJwT5RuuLqL/OJqUSTAerWY85Gig==",
+  "_location": "/fox-syntax-theme",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/fox-syntax-theme/versions/1.2.0/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/fox-syntax-theme/versions/1.2.0/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/fox-syntax-theme/versions/1.2.0/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/fox-syntax-theme/versions/1.2.0/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/fox-syntax-theme/versions/1.2.0/tarball",
+  "_shasum": "55a6d205f4371e4230ee70627e30033d3dbb793d",
+  "_spec": "https://www.atom.io/api/packages/fox-syntax-theme/versions/1.2.0/tarball",
+  "_where": "/private/var/folders/fm/1s8kj_vn2cd4zhb57jrqr6pr0000gn/T/apm-install-dir-119415-72699-1qzk3ie.3jiyf",
+  "bugs": {
+    "url": "https://github.com/jwkicklighter/foxSyntaxTheme/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Another theme inspired by Firefox dark developer theme",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/jwkicklighter/foxSyntaxTheme#readme",
+  "keywords": [
+    "syntax",
+    "theme",
+    "firefox",
+    "developer",
+    "dark"
+  ],
+  "license": "MIT",
+  "name": "fox-syntax-theme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwkicklighter/foxSyntaxTheme.git"
+  },
+  "theme": "syntax",
+  "version": "1.2.0"
+}

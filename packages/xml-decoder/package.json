@@ -1,0 +1,49 @@
+{
+  "_from": "https://www.atom.io/api/packages/xml-decoder/versions/1.1.0/tarball",
+  "_id": "xml-decoder@1.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-ouacKXHNprEf8j88d0MX5kpqR+nuNg7mpQuIJKMUmdubDmsamfa08RjfmQlcl6lEW3BZeK04Kv2fPYLQq8TE2w==",
+  "_location": "/xml-decoder",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/xml-decoder/versions/1.1.0/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/xml-decoder/versions/1.1.0/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/xml-decoder/versions/1.1.0/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/xml-decoder/versions/1.1.0/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/xml-decoder/versions/1.1.0/tarball",
+  "_shasum": "5b4c3a3f248c7f797e2340e58bbb3043c938ba2f",
+  "_spec": "https://www.atom.io/api/packages/xml-decoder/versions/1.1.0/tarball",
+  "_where": "/private/var/folders/fm/1s8kj_vn2cd4zhb57jrqr6pr0000gn/T/apm-install-dir-119424-91168-1rvp000.l6py",
+  "activationCommands": {
+    "atom-workspace": "xml-decoder:decode"
+  },
+  "bugs": {
+    "url": "https://github.com/GeorgeChernov/xml-decoder/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "It allows to decode XML. It converts &lt;test&gt;&lt;/test&gt; to <test></test>.",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/GeorgeChernov/xml-decoder#readme",
+  "keywords": [
+    "xml",
+    "decode"
+  ],
+  "license": "MIT",
+  "main": "./lib/xml-decoder",
+  "name": "xml-decoder",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeorgeChernov/xml-decoder.git"
+  },
+  "version": "1.1.0"
+}

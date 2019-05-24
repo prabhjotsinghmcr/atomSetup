@@ -1,0 +1,54 @@
+{
+  "_from": "https://www.atom.io/api/packages/raml-snippets/versions/0.1.0/tarball",
+  "_id": "raml-snippets@0.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-ypPy9Fppa90AeQUzRV37lS06anBaH9vl1UozW9aOYXFV3vrBuk+ZelmurOICFisDPum8m6AjsRXk25hx3AR7WA==",
+  "_location": "/raml-snippets",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/raml-snippets/versions/0.1.0/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/raml-snippets/versions/0.1.0/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/raml-snippets/versions/0.1.0/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/raml-snippets/versions/0.1.0/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/raml-snippets/versions/0.1.0/tarball",
+  "_shasum": "9c1be6eee574d0379d2098c817e42c2467911fcd",
+  "_spec": "https://www.atom.io/api/packages/raml-snippets/versions/0.1.0/tarball",
+  "_where": "/private/var/folders/fm/1s8kj_vn2cd4zhb57jrqr6pr0000gn/T/apm-install-dir-119424-91005-fxodh1.0nkto",
+  "author": {
+    "name": "Bruno Wego",
+    "email": "brunowego@gmail.com",
+    "url": "http://brunowego.com"
+  },
+  "bugs": {
+    "url": "https://github.com/brunowego/atom-raml-snippets/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A collection of RAML snippets for Atom Editor.",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/brunowego/atom-raml-snippets#readme",
+  "keywords": [
+    "api",
+    "raml",
+    "snippets"
+  ],
+  "license": "MIT",
+  "main": "./lib/raml-snippets",
+  "name": "raml-snippets",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunowego/atom-raml-snippets.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.0"
+}

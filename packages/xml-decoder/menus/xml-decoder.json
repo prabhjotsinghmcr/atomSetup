@@ -1,0 +1,34 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle xml-decoder",
+        "command": "xml-decoder:toggle"
+      },
+      {
+        "label": "Decode xml-decoder",
+        "command": "xml-decoder:decode"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "xml-decoder",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "xml-decoder:toggle"
+            },
+            {
+              "label": "Decode",
+              "command": "xml-decoder:decode"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

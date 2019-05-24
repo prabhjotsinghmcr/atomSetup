@@ -1,0 +1,61 @@
+{
+  "_from": "https://www.atom.io/api/packages/linter-raml-myrules/versions/0.0.6/tarball",
+  "_id": "linter-raml-myrules@0.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-Zzng8Ngtjp0AF8mNNq6S6Li/vBiVq4fgYQk8wWOG37eokebb+bnDitCR5t67J9EF7YXhvdcrqi6c6IEtwr0Isw==",
+  "_location": "/linter-raml-myrules",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/linter-raml-myrules/versions/0.0.6/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/linter-raml-myrules/versions/0.0.6/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/linter-raml-myrules/versions/0.0.6/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/linter-raml-myrules/versions/0.0.6/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/linter-raml-myrules/versions/0.0.6/tarball",
+  "_shasum": "9a87b86a5069308d77d5eff0c946cdcbb552f5d0",
+  "_spec": "https://www.atom.io/api/packages/linter-raml-myrules/versions/0.0.6/tarball",
+  "_where": "/private/var/folders/fm/1s8kj_vn2cd4zhb57jrqr6pr0000gn/T/apm-install-dir-119424-91027-1er88d2.5f9l",
+  "bugs": {
+    "url": "https://github.com/ramltribute/linter-raml-myrules/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "atom-linter": "^4.0.1",
+    "atom-package-deps": "^4.0.1",
+    "q": "^1.4.1",
+    "raml-1-parser": "0.2.23"
+  },
+  "deprecated": false,
+  "description": "New Linter for Atom editor (and console) that validates your RAML files and expandable with your own personal rules!",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/ramltribute/linter-raml-myrules#readme",
+  "keywords": [
+    "linter",
+    "raml"
+  ],
+  "license": "MIT",
+  "main": "./lib/linter-raml.js",
+  "name": "linter-raml-myrules",
+  "package-deps": [
+    "linter"
+  ],
+  "providedServices": {
+    "linter": {
+      "versions": {
+        "1.0.0": "provideLinter"
+      }
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramltribute/linter-raml-myrules.git"
+  },
+  "version": "0.0.6"
+}

@@ -1,0 +1,41 @@
+{
+  "_from": "https://www.atom.io/api/packages/raml/versions/0.2.0/tarball",
+  "_id": "raml@0.2.0",
+  "_inBundle": false,
+  "_integrity": "sha512-e5WzM6f/lSYC1fFjhZd22D+bESdykap/21uXsxTLRwvis87NhIw0wzqeSSKcFhPu7Uy2ZYypQAl0k/h0rqyJoQ==",
+  "_location": "/raml",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/raml/versions/0.2.0/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/raml/versions/0.2.0/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/raml/versions/0.2.0/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/raml/versions/0.2.0/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/raml/versions/0.2.0/tarball",
+  "_shasum": "a4a31a90c794b7e1470e475a5889749e5fbaf4d7",
+  "_spec": "https://www.atom.io/api/packages/raml/versions/0.2.0/tarball",
+  "_where": "/private/var/folders/fm/1s8kj_vn2cd4zhb57jrqr6pr0000gn/T/apm-install-dir-11923-653-1dac363.xxcu",
+  "bugs": {
+    "url": "https://github.com/n4ch03/atom-raml/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "RAML Package for ATOM",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "homepage": "https://github.com/n4ch03/atom-raml#readme",
+  "license": "MIT",
+  "name": "raml",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n4ch03/atom-raml.git"
+  },
+  "version": "0.2.0"
+}
